@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true 
+#EXTINF:-1,Telecity Encoder 6
+http://192.168.100.27:8001/1:0:19:1:0:0:3EE0F5E:0:0:0:?bitrate=1500000&width=1920&height=1080&vcodec=h264&aspectratio=0&interlaced=0
